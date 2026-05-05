@@ -8,7 +8,7 @@ image:
   repository: kmmashri/go-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "25352676348"
+  tag: "25354037376"
 
 ingress:
   enabled: false
